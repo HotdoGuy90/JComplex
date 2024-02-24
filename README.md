@@ -2,6 +2,11 @@
 
 A Java Library that adds support to Complex Numbers. Inspired by my other project, ComplexJS.
 
+## Table of Contents
+
+* [Installation](https://github.com/HotdoGuy90/JComplex/blob/master/README.md#installation)
+* [Usage](https://github.com/HotdoGuy90/JComplex/tree/blob/README.md#usage)
+
 ## Installation
 
 You can extract the contents from `JComplex-x.x.x.jar` (which can be found [here](https://github.com/HotdoGuy90/JComplex/releases)) and add its directory into your project. Or, If your project uses Gradle, in your `build.gradle` file, add the following repository:
