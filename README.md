@@ -5,7 +5,7 @@ A Java Library that adds support to Complex Numbers. Inspired by my other projec
 ## Table of Contents
 
 * [Installation](https://github.com/HotdoGuy90/JComplex/blob/master/README.md#installation)
-* [Usage](https://github.com/HotdoGuy90/JComplex/tree/blob/README.md#usage)
+* [Usage](https://github.com/HotdoGuy90/JComplex/master/blob/README.md#usage)
 
 ## Installation
 
