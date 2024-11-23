@@ -28,4 +28,10 @@ dependencies {
 
 ## Usage
 
-The package id for JComplex is `net.hotdoguy90.Complex` I tried to make this close to my other project ComplexJS, to avoid confusion. Because of this, and because Java's syntax is very close to Javascript's syntax (hence the name) I don't even need to make a documentation, since the [documentation for ComplexJS](https://github.com/HotdoGuy90/ComplexJS/tree/master/README.md) is so close. (I would not do any copy/pasting though. Java and Javascript are *similar,* just not the same.)
+You can import the package to your java file using:
+```java
+import net.hotdoguy90.Complex
+
+Complex c = new Complex();
+```
+For a full fledged documentation, refer to this [article](https://github.com/HotdoGuy90/ComplexJS/tree/master/README.md).
