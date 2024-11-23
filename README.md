@@ -32,6 +32,6 @@ You can import the package to your java file using:
 ```java
 import net.hotdoguy90.Complex
 
-Complex c = new Complex();
+Complex c = new Complex(2, 3) //Equivalent to (2+3i);
 ```
 For a full fledged documentation, refer to this [article](https://github.com/HotdoGuy90/ComplexJS/tree/master/README.md).
